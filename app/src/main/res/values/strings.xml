@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="error_invalid_sms_code">sample_error_message</string>
+    <string name="error_unknown_error">Unknown error.</string>
+    <string name="error_timeout">Pure network.</string>
+    <string name="error_network_error">Error while connecting.</string>
+    <string name="main_msg_city">City:</string>
+    <string name="main_msg_temperature">Temperature:</string>
+    <string name="main_msg_pressure">Pressure:</string>
+    <string name="main_msg_humidity">Humidity:</string>
+    <string name="int_temp">%dC</string>
+    <string name="int_pressure">%dhPa</string>
+    <string name="int_humidity">%d%%</string>
+    <string name="main_menu_search">City name</string>
+</resources>
